@@ -33,6 +33,7 @@
   - Arduino UNO R3 
 
 ## 전체적인 구성도
+<img width="576" alt="캡스톤 구상도" src="https://user-images.githubusercontent.com/71344823/94006137-5d67c100-fdda-11ea-918d-cbe63cbee593.png">
 
 
 ## 보고서 
