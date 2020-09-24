@@ -37,7 +37,7 @@
 
 
 ## 보고서 
-    - [캡스톤디자인_신청서.docx](https://github.com/JUNYOUNG96/AutoFeed/files/5276351/_.docx)
+[캡스톤디자인_신청서.docx](https://github.com/JUNYOUNG96/AutoFeed/files/5276358/_.docx)
 
 ### 회의록 
 
