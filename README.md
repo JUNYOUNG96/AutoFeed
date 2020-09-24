@@ -37,7 +37,7 @@
 
 
 ## 보고서 
-    
+[스마트 IOT 캡스톤 디자인.docx](https://github.com/JUNYOUNG96/AutoFeed/files/5276342/IOT.docx)
     
 ### 회의록 
 
