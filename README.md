@@ -7,10 +7,10 @@
 - 팀명 : **스마트임베디드**
 - 팀원 및 역할
     - 강준영 : 프로젝트 진행 총괄 & 보고서 작성 & git 관리  & 서류작성 및 물품구매 관리 & 아두이노 설계 & 소스코드 제작 및 보완
-    - 김경빈 : 소스코드 보완 & 하드웨어 제작 & 소스코드 제작 및 보완
-    - 김민석 : 앱인벤터 앱 제작 & 라즈베리 파이 및 카메라 세팅 & 소스코드 제작 및 보완
+    - 김경빈 : 라즈베리파이 카메라 모듈 제어 및 VNC Viewer 어플을 이용한 데이터 송수신
+    - 김민석 : 소스코드 보완 & QA & 테스팅(시나리오, 성능측정) & 하드웨어 제작
     - 이지나 : 소스코드 보완 & QA & 테스팅(시나리오, 성능측정) & 하드웨어 제작
-    - 박성중 : & 기타 프로그램 작성 & 소스코드 제작 및 보완 
+    - 박성중 : 기타 프로그램 작성 & 소스코드 제작 및 보완 
 ## 주제 및 기대효과
   - 프로젝트명 : **AutoFeed**
   
@@ -33,12 +33,23 @@
   - Arduino UNO R3 
 
 ## 전체적인 구성도
-<img width="576" alt="캡스톤 구상도" src="https://user-images.githubusercontent.com/71344823/94006137-5d67c100-fdda-11ea-918d-cbe63cbee593.png">
+- 첫 번 째 아두이노
+![image](https://user-images.githubusercontent.com/71344823/94539919-d2c30e00-0280-11eb-9185-7e7012eeb095.png)
+
+-두 번째 아두이노
+![image](https://user-images.githubusercontent.com/71344823/94539960-de163980-0280-11eb-9e8f-7733b595bc09.png)
+
+-라즈베리파이
+
+![image](https://user-images.githubusercontent.com/71344823/94540017-ef5f4600-0280-11eb-817a-41a7058ca417.png)
+
 
 
 ## 보고서 
     - [캡스톤디자인_신청서.docx](https://github.com/JUNYOUNG96/AutoFeed/files/5276358/_.docx)
     - [캡스톤디자인_부품회의_9월22일.docx](https://github.com/JUNYOUNG96/AutoFeed/files/5276366/_._9.22.docx)
+    - [9월 29일 캡스톤 디자인 활동보고서.docx](https://github.com/JUNYOUNG96/AutoFeed/files/5297822/9.29.docx)
+    - [9월 29일 회의내용.docx](https://github.com/JUNYOUNG96/AutoFeed/files/5297820/9.29.docx)
 
 ### 회의록 
 
