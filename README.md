@@ -37,7 +37,8 @@
 ![image](https://user-images.githubusercontent.com/71344823/94539919-d2c30e00-0280-11eb-9185-7e7012eeb095.png)
 
 -두 번째 아두이노
-![image](https://user-images.githubusercontent.com/71344823/94539960-de163980-0280-11eb-9e8f-7733b595bc09.png)
+![image](https://user-images.githubusercontent.com/71344823/96357282-e8677d00-1134-11eb-9c2b-0fb40999b85d.png)
+
 
 -라즈베리파이
 
