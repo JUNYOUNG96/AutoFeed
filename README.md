@@ -47,7 +47,7 @@
 
 
 ## 보고서 
-[캡스톤디자인_신청서.docx](https://github.com/JUNYOUNG96/AutoFeed/files/5276358/_.docx)
+[캡스톤디자인_신청서.docx](https://github.com/JUNYOUNG96/AutoFeed/files/5276358/_.docx)\n
 [캡스톤디자인_부품회의_9월22일.docx](https://github.com/JUNYOUNG96/AutoFeed/files/5276366/_._9.22.docx)
 [9월 29일 캡스톤 디자인 활동보고서.docx](https://github.com/JUNYOUNG96/AutoFeed/files/5297822/9.29.docx)
 [9월 29일 회의내용.docx](https://github.com/JUNYOUNG96/AutoFeed/files/5297820/9.29.docx)
