@@ -47,10 +47,16 @@
 
 
 ## 보고서 
-    - [캡스톤디자인_신청서.docx](https://github.com/JUNYOUNG96/AutoFeed/files/5276358/_.docx)
-    - [캡스톤디자인_부품회의_9월22일.docx](https://github.com/JUNYOUNG96/AutoFeed/files/5276366/_._9.22.docx)
-    - [9월 29일 캡스톤 디자인 활동보고서.docx](https://github.com/JUNYOUNG96/AutoFeed/files/5297822/9.29.docx)
-    - [9월 29일 회의내용.docx](https://github.com/JUNYOUNG96/AutoFeed/files/5297820/9.29.docx)
+[캡스톤디자인_신청서.docx](https://github.com/JUNYOUNG96/AutoFeed/files/5276358/_.docx)
+[캡스톤디자인_부품회의_9월22일.docx](https://github.com/JUNYOUNG96/AutoFeed/files/5276366/_._9.22.docx)
+[9월 29일 캡스톤 디자인 활동보고서.docx](https://github.com/JUNYOUNG96/AutoFeed/files/5297822/9.29.docx)
+[9월 29일 회의내용.docx](https://github.com/JUNYOUNG96/AutoFeed/files/5297820/9.29.docx)
+[10.13 캡스톤 디자인 활동 보고서.docx](https://github.com/JUNYOUNG96/AutoFeed/files/5458766/10.13.docx)
+[10.27 캡스톤 디자인 활동보고서.docx](https://github.com/JUNYOUNG96/AutoFeed/files/5458767/10.27.docx)
+[10월 29일 활동 보고서.docx](https://github.com/JUNYOUNG96/AutoFeed/files/5458770/10.29.docx)
+[2020스마트IoT캡스톤디자인 포스터 양식_수정본.pdf](https://github.com/JUNYOUNG96/AutoFeed/files/5458771/2020.IoT._.pdf)
+[2020스마트IoT캡스톤디자인 포스터 양식_수정본.pptx](https://github.com/JUNYOUNG96/AutoFeed/files/5458773/2020.IoT._.pptx)
+
 
 ### 회의록 
 
