@@ -65,7 +65,7 @@
 
 [2020스마트IoT캡스톤디자인 포스터 양식_수정본.pptx](https://github.com/JUNYOUNG96/AutoFeed/files/5458773/2020.IoT._.pptx)
 
-[10월 29일 활동 보고서.docx](https://github.com/JUNYOUNG96/AutoFeed/files/5506486/10.29.docx)
+[11월 9일 활동 보고서(소프트웨어).docx](https://github.com/JUNYOUNG96/AutoFeed/files/5506494/11.9.docx)
 
 ### 회의록 
 
