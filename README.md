@@ -76,11 +76,13 @@
 
 [11.9 활동보고서_하드웨어.docx](https://github.com/JUNYOUNG96/AutoFeed/files/5610015/11.9._.docx)
 
+[11.9 활동보고서_라즈베리파이.pdf](https://github.com/JUNYOUNG96/AutoFeed/files/5610026/11.9._.pdf)
+
 [11월 24일 캡스톤 디자인 활동 보고서.docx](https://github.com/JUNYOUNG96/AutoFeed/files/5610014/11.24.docx)
 
 ### 회의록 
 
-https://download.mail.naver.com/file/download/each/?attachType=normal&mailSN=13054&attachIndex=2&virus=1&domain=mail.naver.com&u=rkdwnsdud82
+[스마트 임베디드 회의록.pdf](https://github.com/JUNYOUNG96/AutoFeed/files/5610027/default.pdf)
 
 
 ### 참고 문서
