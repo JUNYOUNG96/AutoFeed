@@ -54,6 +54,8 @@
 - 두 번째 아두이노
 <img width="257" alt="아두이노 2 플로우차트" src="https://user-images.githubusercontent.com/71344823/100492994-e8b45880-3175-11eb-8bce-ad49d1ba6061.PNG">
 - 라즈베리 파이
+![라즈베리파이 플로우차트](https://user-images.githubusercontent.com/71344823/100964298-a7ec8300-356b-11eb-92f1-49e410fafc9c.png)
+
 
 
 ## 보고서 
@@ -94,6 +96,9 @@
 
 
 ### 참고 문서
+
+-앱인벤터 사용법
+https://m.blog.naver.com/PostView.nhn?blogId=kindpark6142&logNo=221028648588&proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F
 
 ### 추진 계획
  - 팀원들 각각에게 소프트웨어, 하드웨어, 라즈베리파이 파트를 정해준다. 코로나로 인해 자주 만나기 힘들기 때문    에 각자 맡은 파트를 진행하고 1주일에 한 번 씩 줌으로 진행 현황을 보고한다.
