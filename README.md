@@ -37,9 +37,12 @@
 ## 전체적인 구성도
 - 첫 번 째 아두이노
 ![image](https://user-images.githubusercontent.com/71344823/94539919-d2c30e00-0280-11eb-9185-7e7012eeb095.png)
+![Mainboard회로도](https://user-images.githubusercontent.com/71344823/100964131-4af0cd00-356b-11eb-8bce-d8b354b61e39.jpg)
+
 
 -두 번째 아두이노
 ![image](https://user-images.githubusercontent.com/71344823/96357282-e8677d00-1134-11eb-9c2b-0fb40999b85d.png)
+![앱인벤터회로도](https://user-images.githubusercontent.com/71344823/100964162-5cd27000-356b-11eb-985b-52044c030def.jpg)
 
 
 -라즈베리파이
@@ -79,6 +82,11 @@
 [11.9 활동보고서_라즈베리파이.pdf](https://github.com/JUNYOUNG96/AutoFeed/files/5610026/11.9._.pdf)
 
 [11월 24일 캡스톤 디자인 활동 보고서.docx](https://github.com/JUNYOUNG96/AutoFeed/files/5610014/11.24.docx)
+
+[스마트임베디드_포스터.pdf](https://github.com/JUNYOUNG96/AutoFeed/files/5633666/_.pdf)
+
+[스마트임베디드_포스터.pptx](https://github.com/JUNYOUNG96/AutoFeed/files/5633667/_.pptx)
+
 
 ### 회의록 
 
