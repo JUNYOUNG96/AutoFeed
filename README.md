@@ -54,8 +54,8 @@
 - 두 번째 아두이노
 <img width="257" alt="아두이노 2 플로우차트" src="https://user-images.githubusercontent.com/71344823/100492994-e8b45880-3175-11eb-8bce-ad49d1ba6061.PNG">
 - 라즈베리 파이
+![image](https://user-images.githubusercontent.com/71344823/101615103-112f3300-3a51-11eb-943a-c65f2f7ba011.png)
 
-![라즈베리파이 플로우차트](https://user-images.githubusercontent.com/71344823/100964298-a7ec8300-356b-11eb-92f1-49e410fafc9c.png)
 
 
 
