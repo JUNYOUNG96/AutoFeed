@@ -65,8 +65,10 @@
 ## 플로우 차트
 - 첫 번째 아두이노                 
 <img width="173" alt="아두이노1 플로우차트" src="https://user-images.githubusercontent.com/71344823/100492984-d0443e00-3175-11eb-9968-98a6d7cb7911.PNG"> 
+
 - 두 번째 아두이노
 <img width="257" alt="아두이노 2 플로우차트" src="https://user-images.githubusercontent.com/71344823/100492994-e8b45880-3175-11eb-8bce-ad49d1ba6061.PNG">
+
 - 라즈베리 파이
 <img width="144" alt="라즈베리파이 플로우차트" src="https://user-images.githubusercontent.com/71344823/101615269-450a5880-3a51-11eb-932c-e7f3d5b986f8.PNG">
 
