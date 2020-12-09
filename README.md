@@ -39,16 +39,21 @@
   
 ## 전체적인 구성도
 - 첫 번 째 아두이노
+
 ![image](https://user-images.githubusercontent.com/71344823/94539919-d2c30e00-0280-11eb-9185-7e7012eeb095.png)
+
 ![Mainboard회로도](https://user-images.githubusercontent.com/71344823/100964131-4af0cd00-356b-11eb-8bce-d8b354b61e39.jpg)
 
 
 -두 번째 아두이노
+
 ![image](https://user-images.githubusercontent.com/71344823/96357282-e8677d00-1134-11eb-9c2b-0fb40999b85d.png)
+
 ![앱인벤터회로도](https://user-images.githubusercontent.com/71344823/100964162-5cd27000-356b-11eb-985b-52044c030def.jpg)
 
 
 -라즈베리파이
+
 ![image](https://user-images.githubusercontent.com/71344823/94540017-ef5f4600-0280-11eb-817a-41a7058ca417.png)
 
 ## 플로우 차트
