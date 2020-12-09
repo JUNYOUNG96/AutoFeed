@@ -54,7 +54,8 @@
 - 두 번째 아두이노
 <img width="257" alt="아두이노 2 플로우차트" src="https://user-images.githubusercontent.com/71344823/100492994-e8b45880-3175-11eb-8bce-ad49d1ba6061.PNG">
 - 라즈베리 파이
-![image](https://user-images.githubusercontent.com/71344823/101615103-112f3300-3a51-11eb-943a-c65f2f7ba011.png)
+<img width="144" alt="라즈베리파이 플로우차트" src="https://user-images.githubusercontent.com/71344823/101615269-450a5880-3a51-11eb-932c-e7f3d5b986f8.PNG">
+
 
 
 
@@ -90,6 +91,9 @@
 
 [스마트임베디드_포스터.pptx](https://github.com/JUNYOUNG96/AutoFeed/files/5633667/_.pptx)
 
+[캡스톤디자인_결과보고서.docx](https://github.com/JUNYOUNG96/AutoFeed/files/5665056/_.docx)
+
+
 
 ### 회의록 
 
@@ -101,6 +105,34 @@
 -앱인벤터 사용법
 https://m.blog.naver.com/PostView.nhn?blogId=kindpark6142&logNo=221028648588&proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F
 
+-피에조 부저 사용법
+https://codingrun.tistory.com/104?category=674346
+
+-로드셀 참고
+https://m.blog.naver.com/PostView.nhn?blogId=roboholic84&logNo=220441853297&proxyReferer=https:%2F%2Fwww.bing.com%2F
+
+-RTC 참고
+https://turtleshell.kr/88
+
+-블루투스 모듈 참고
+http://blog.naver.com/PostView.nhn?blogId=eduino&logNo=221121406317
+
+-초음파 센서 참고
+https://www.kocoafab.cc/tutorial/view/65
+
+-LCD 모듈 참고
+https://kocoafab.cc/tutorial/view/733
+
+-라즈베리파이 CCTV 참고
+http://www.3demp.com/community/boardDetails.php?cbID=233
+
 ### 추진 계획
  - 팀원들 각각에게 소프트웨어, 하드웨어, 라즈베리파이 파트를 정해준다. 코로나로 인해 자주 만나기 힘들기 때문    에 각자 맡은 파트를 진행하고 1주일에 한 번 씩 줌으로 진행 현황을 보고한다.
  - 2주에 한 번 씩 교수님과 함께 단체 미팅을 진행하고, 합을 맞춤으로써 앞으로의 진행 방향을 토론한다.
+ 
+### 결과
+ - 처음 계획했던 대로, 1주 혹은 2주에 한번씩 정기적인 모임을 가져서 프로젝트를 진행했다. 기존에 있던 제품들의 단점들을 보완하는 방식으로 프로젝트를 진행하였고, 그 내용은 
+    1. 로드셀을 이용한 보다 정확한 양의 사료 공급
+    2. 초음파 센서를 이용한 남은 사료 양을 알려주는 어플 제작
+    3. 사고 방지 및 사용자의 안심을 위한 원격 CCTV 제작
+    이었고, 위의 기능들을 모두 지원하는 제품 제작에 성공하였다.
